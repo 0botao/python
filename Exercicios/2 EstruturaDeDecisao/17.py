@@ -17,7 +17,7 @@ def verificadorVazio(a):
 while True:
     dia = input(' digite o dia \n')
     dia = verificadorVazio(dia) 
-    mes = input(' digite o mes \n')
+    mes = input(' digite o mes \n') 
 
 
 
