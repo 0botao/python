@@ -1,6 +1,8 @@
 # Faça um Programa que peça dois números e imprima a soma. 
+lista = []
+for i in range(1):
+    n = float(input(f' digite o {i + 1}º'))
+    lista.append(n)
 
-n1 = input(" digite um número")
-n2 = input(" digite um número") 
-
-print(f" a soma dos números é {n1 + n2}") 
+for i in range(lista):
+    print(i)
