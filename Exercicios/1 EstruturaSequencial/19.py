@@ -18,4 +18,4 @@ botao = tk.Button(janela, text="Clique Aqui", command=atualizar_mensagem, font=(
 botao.pack(pady=10)  # Adiciona o botão à janela com espaço vertical
 
 # Inicia o loop principal da janela (mantém a janela aberta)
-janela.mainloop()
+janela.mainloop() 
